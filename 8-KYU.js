@@ -11,7 +11,11 @@
 
 // 2.Sum Arrays
 // function sum(numbers) {
-//   return numbers.reduce((acc, curr) => acc + curr, 0);
+let num = 0
+    numbers.forEach((value) => {
+        if(value > 0) num += value
+    });
+    return num
 // }
 
 
