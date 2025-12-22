@@ -55,5 +55,8 @@
 
 // ===============================================================
 
-// 7 masala
-
+// 7 Abbreviate a Two Word Name
+// function abbrevName(name) {
+//   return name.charAt(0).toUpperCase() + "." +
+//          name.charAt(name.indexOf(" ") + 1).toUpperCase();
+// }   
