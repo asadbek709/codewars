@@ -60,3 +60,12 @@
 //   return name.charAt(0).toUpperCase() + "." +
 //          name.charAt(name.indexOf(" ") + 1).toUpperCase();
 // }   
+
+// 8 Count by X
+// function countBy(x, n) {
+//   let result = [];
+//   for (let i = 1; i <= n; i++) {
+//     result.push(x * i);
+//   }
+//   return result;
+// }
