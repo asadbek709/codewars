@@ -91,4 +91,4 @@
 // }
 
 // 12 Convert a string to an array
-// const stringToArray = (string) => string.split(" ")
+// const stringToArray = (_) => _.split(" ")
