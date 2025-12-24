@@ -84,3 +84,8 @@
 // function removeExclamationMarks(s) {
 //   return s.replaceAll("!", "");
 // }
+
+// 11 Sort My Textbooks
+// function sorter(textbooks) {
+//  return textbooks.sort((a, b) => a.toLowerCase() > b.toLowerCase() ? 1 : -1);
+// }
