@@ -80,6 +80,7 @@
 //     return number * 9;
 //   }
 // }
-
-
-
+//  10 Remove exclamation marks
+// function removeExclamationMarks(s) {
+//   return s.replaceAll("!", "");
+// }
