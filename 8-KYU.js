@@ -89,3 +89,6 @@
 // function sorter(textbooks) {
 //  return textbooks.sort((a, b) => a.toLowerCase() > b.toLowerCase() ? 1 : -1);
 // }
+
+// 12 Convert a string to an array
+// const stringToArray = (string) => string.split(" ")
