@@ -69,3 +69,14 @@
 //   }
 //   return result;
 // }
+
+// 9 Simple multiplication
+// function simpleMultiplication(number) {
+//   if (number % 2 === 0) {
+//     // Agar juft bo'lsa
+//     return number * 8;
+//   } else {
+//     // Agar toq bo'lsa
+//     return number * 9;
+//   }
+// }
