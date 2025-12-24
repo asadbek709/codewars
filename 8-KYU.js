@@ -92,3 +92,12 @@
 
 // 12 Convert a string to an array
 // const stringToArray = (_) => _.split(" ")
+
+// 13 Square(n) Sum
+// function squareSum(numbers){
+//     let sum = 0
+//     numbers.forEach((value) => {
+//       sum += value **2
+//     })
+//   return sum
+// }
