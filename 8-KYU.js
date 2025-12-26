@@ -187,3 +187,15 @@
 // 4. id si 7 ga teng bo’lgan object firstName ning qiymatini “Gulbashakar” ga o’zgartirib bering.
 
 // 5. shu people arrayni lastName bo’yicha sort qilib bering.
+
+// 15 Count the Monkeys!
+// function monkeyCount(n) {
+// // your code here
+  
+//   let sum = []
+  
+//    for (let i = 1; i <= n; i++) {
+//      sum.push(i);
+//    }
+//   return sum
+// }
