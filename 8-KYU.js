@@ -199,3 +199,8 @@
 //    }
 //   return sum
 // }
+
+// 16 Opposite number
+// function opposite(number) {
+//   return -number
+// }
