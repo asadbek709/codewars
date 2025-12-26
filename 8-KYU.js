@@ -204,3 +204,8 @@
 // function opposite(number) {
 //   return -number
 // }
+
+// 17 Type of sum
+// function typeOfSum(a, b) {
+//   return typeof (a + b)
+// }
