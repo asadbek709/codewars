@@ -219,3 +219,10 @@
 //   }
 //   return undefined;
 // }
+
+// 19 Count words
+// function countWords(str) {
+//   if (!str) return 0;
+//   const words = str.trim().match(/\S+/g);
+//   return words ? words.length : 0;
+// }
