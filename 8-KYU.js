@@ -226,3 +226,9 @@
 //   const words = str.trim().match(/\S+/g);
 //   return words ? words.length : 0;
 // }
+
+// 20 How many arguments
+function args_count() {
+  return arguments.length;
+}
+
