@@ -237,3 +237,8 @@
 //   //your code here
 //  return friends.filter(name => name.length === 4)
 // }
+
+// 22 Saralangan obyektlar ro'yxatini qaytaring
+// function sortList (sortBy, list) {
+//   return list.sort((a, b) =>  a[sortBy] - b[sortBy]);
+// }
