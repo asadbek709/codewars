@@ -228,7 +228,12 @@
 // }
 
 // 20 How many arguments
-function args_count() {
-  return arguments.length;
-}
+// function args_count(arguments) {
+//   return arguments.length;
+// }
 
+// 21 Friend or Foe
+// function friend(friends){
+//   //your code here
+//  return friends.filter(name => name.length === 4)
+// }
