@@ -242,3 +242,16 @@
 // function sortList (sortBy, list) {
 //   return list.sort((a, b) =>  a[sortBy] - b[sortBy]);
 // }
+
+// 23 Sort rectangles and circles by area
+// function sortByArea(arr) {
+//   return arr.map(shape => {
+//       let area;
+//       if (Array.isArray(shape)) {
+//         area = shape[0] * shape[1];
+//       } else {
+//         area = Math.PI * shape * shape;
+//       }
+//       return Number(area.toFixed(2));
+//     }).sort((a, b) => a - b);
+// }
