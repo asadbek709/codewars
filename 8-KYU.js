@@ -309,3 +309,6 @@
 
 // 28 Sort with Arrow Functions
 // let OrderPeople = (people) => people.sort((a , b) => a.age - b.age); 
+
+// 29 Are they square
+// let isSquare = arr => arr.length ? arr.map ((x) => !`${(Math.sqrt(x) % 1)}`.includes(".")).every((v) => v) : undefined;
