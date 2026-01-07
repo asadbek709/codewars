@@ -306,3 +306,6 @@
   
 //   return fullText.split(search).length -1 ;
 // }
+
+// 28 Sort with Arrow Functions
+// let OrderPeople = (people) => people.sort((a , b) => a.age - b.age); 
