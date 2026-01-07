@@ -274,5 +274,29 @@
 //   }
 // }
 
+// 25 Make a function that does arithmetic!
+// function arithmetic(a, b, operator){
+//   if(operator === "add"){
+//     return a + b
+//   }else if(operator === "subtract"){
+//     return a - b
+//   }else if (operator === "multiply"){
+//     return a * b
+//   }else if (operator === "divide"){
+//      return a / b
+//   }
+// }
 
+// 26 How many consecutive numbers are needed
+// function consecutive(arr) {
+//   arr.sort((a, b) => a - b)
+//   let min = Math.min(...arr)
+//   let max = Math.max(...arr)
 
+//   let newArr = []
+
+//   for(let i = min; i <= max; i++){
+//      newArr.push(i)
+//   }
+//   return (newArr.length - arr.length)
+// }
