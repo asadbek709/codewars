@@ -287,14 +287,13 @@
 //   }
 // }
 
+
 // 26 How many consecutive numbers are needed
 // function consecutive(arr) {
 //   arr.sort((a, b) => a - b)
 //   let min = Math.min(...arr)
 //   let max = Math.max(...arr)
-
 //   let newArr = []
-
 //   for(let i = min; i <= max; i++){
 //      newArr.push(i)
 //   }
