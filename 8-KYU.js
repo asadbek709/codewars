@@ -300,8 +300,6 @@
 //   return (newArr.length - arr.length)
 // }
 
-
-
 // 27 Return substring instance count
 // function solution(fullText, search) {
   
