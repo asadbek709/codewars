@@ -259,7 +259,6 @@
 // 24 Who likes it
 // function likes(names) {
 //   const count = names.length;
-
 //   switch (count) {
 //     case 0:
 //       return "no one likes this";
@@ -286,7 +285,6 @@
 //      return a / b
 //   }
 // }
-
 
 // 26 How many consecutive numbers are needed
 // function consecutive(arr) {
