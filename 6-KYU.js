@@ -18,8 +18,6 @@
 //   const odds = array
 //     .filter(n => n % 2 !== 0)
 //     .sort((a, b) => a - b);
-
-//   // 2. Natijani yig‘amiz
 //   return array.map(n => {
 //     if (n % 2 !== 0) {
 //       return odds.shift(); 
