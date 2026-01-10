@@ -311,3 +311,9 @@
 
 // 29 Are they square
 // let isSquare = arr => arr.length ? arr.map ((x) => !`${(Math.sqrt(x) % 1)}`.includes(".")).every((v) => v) : undefined;
+
+// 30 Grasshopper - Basic Function Fixer
+// function addFive(num) {
+//   let total = num + 5
+//   return total
+// }
