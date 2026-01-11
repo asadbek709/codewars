@@ -315,3 +315,8 @@
 //   let total = num + 5
 //   return total
 // }
+
+// 31 Square Every Digit 
+// function squareDigits(num){
+//  return Number(num.toString().split('').map(d => d * d).join(''));
+// }
