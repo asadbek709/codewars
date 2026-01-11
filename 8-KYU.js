@@ -320,3 +320,8 @@
 // function squareDigits(num){
 //  return Number(num.toString().split('').map(d => d * d).join(''));
 // }
+
+// 32 You're a square!
+// let isSquare = function(n){
+//   return n >= 0 && Number.isInteger(Math.sqrt(n));
+// }
