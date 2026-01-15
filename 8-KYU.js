@@ -331,3 +331,10 @@
 //     numbers.sort((a, b) => a - b);
 //     return numbers[0] + numbers[1];
 // }
+
+// 34 Calculate average
+// function findAverage(array) {
+//  let sum = array.reduce((acc, curr) => acc + curr, 0);
+//   let res = sum / array.length 
+//    return Number(res.toFixed(2));
+// }
