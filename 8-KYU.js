@@ -325,3 +325,9 @@
 // let isSquare = function(n){
 //   return n >= 0 && Number.isInteger(Math.sqrt(n));
 // }
+
+// 33 Sum of two lowest positive integers
+// function sumTwoSmallestNumbers(numbers) {  
+//     numbers.sort((a, b) => a - b);
+//     return numbers[0] + numbers[1];
+// }
