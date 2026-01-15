@@ -333,8 +333,7 @@
 // }
 
 // 34 Calculate average
-// function findAverage(array) {
-//  let sum = array.reduce((acc, curr) => acc + curr, 0);
-//   let res = sum / array.length 
-//    return Number(res.toFixed(2));
+// let findAverage = (array)=> {
+//   if(!array.length) return 0;
+//   return array.reduce((sum, cur)=>sum+cur, 0)/array.length
 // }
