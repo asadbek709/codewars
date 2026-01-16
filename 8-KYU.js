@@ -340,3 +340,9 @@
 
 // 35 Push a hash/an object into array
 // items = [{a: "b", c: "d"}]
+
+// 36 Sum without highest and lowest number
+// function sumArray(array) {
+//   if(array?.length <= 2 || !array) return 0;
+//   return array.reduce((a, b) => a + b, 0) -  Math.min(...array) - Math.max(...array);
+// }
