@@ -347,7 +347,7 @@
 //   return array.reduce((a, b) => a + b, 0) -  Math.min(...array) - Math.max(...array);
 // }
 
-// 37Stringy Strings
+// 37 Stringy Strings
 // function stringy(size) {
 //   let result = "";
 //   for(let i = 0; i < size; i++) {
@@ -359,3 +359,11 @@
 //   }
 //   return result
 // }
+
+// 38 BASIC: Making Six Toast
+// function sixToast(num) {
+//   return Math.abs(num -6);
+// }
+
+// 39 Filter out the geese
+// let gooseFilter = (birds) => birds.filter((s) => !["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"].includes(s));
