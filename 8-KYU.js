@@ -368,3 +368,12 @@
 
 // 39 Filter out the geese
 // let gooseFilter = (birds) => birds.filter((s) => !["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"].includes(s));
+
+// 40 What is between
+// function between(a, b) {
+//   let result = [];
+//   for (let i = a; i <= b; i++) { 
+//     result.push(i);
+//   }
+//   return result;
+// }
