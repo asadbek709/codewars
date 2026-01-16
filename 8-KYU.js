@@ -346,3 +346,16 @@
 //   if(array?.length <= 2 || !array) return 0;
 //   return array.reduce((a, b) => a + b, 0) -  Math.min(...array) - Math.max(...array);
 // }
+
+// 37Stringy Strings
+// function stringy(size) {
+//   let result = "";
+//   for(let i = 0; i < size; i++) {
+//     if(i% 2 === 0) {
+//       result += "1"
+//     }else{
+//       result += "0"
+//     }
+//   }
+//   return result
+// }
