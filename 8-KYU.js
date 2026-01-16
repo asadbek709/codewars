@@ -337,3 +337,6 @@
 //   if(!array.length) return 0;
 //   return array.reduce((sum, cur)=>sum+cur, 0)/array.length
 // }
+
+// 35 Push a hash/an object into array
+// items = [{a: "b", c: "d"}]
