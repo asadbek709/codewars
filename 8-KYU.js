@@ -388,3 +388,7 @@
 //   return arr.slice(-2).sort((a, b) => b - a)
 // }
 
+// 43 
+// function sumNumbers(...args) {
+//    return args.filter(value => typeof value === 'number' && !Number.isNaN(value)).reduce((sum, num) => sum + num, 0);
+// }
