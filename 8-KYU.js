@@ -383,3 +383,8 @@
 //   return Number(n.toFixed(2))
 // }
 
+// 42 Return Two Highest Values in List
+// function twoHighest(arr) {
+//   return arr.slice(-2).sort((a, b) => b - a)
+// }
+
