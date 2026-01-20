@@ -413,3 +413,11 @@
 //   const hashtag ="#" +str.trim().split(/\s+/).map( word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join("");
 //   return hashtag.length > 140 ? false : hashtag;
 // }
+
+// 46 RGB To Hex Conversion
+// function rgb(r, g, b) {
+//   const clamp = (n) => Math.max(0, Math.min(255, n));
+//   const toHex = (n) => clamp(n).toString(16).toUpperCase().padStart(2, "0");
+//   return toHex(r) + toHex(g) + toHex(b);
+// }
+// 
