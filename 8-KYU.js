@@ -406,3 +406,10 @@
 //   }
 //   return result.concat(Array(sum).fill(0));
 // }
+
+// 45 The Hashtag Generator
+// function generateHashtag (str) {
+//   if (!str.trim()) return false;
+//   const hashtag ="#" +str.trim().split(/\s+/).map( word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join("");
+//   return hashtag.length > 140 ? false : hashtag;
+// }
