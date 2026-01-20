@@ -392,3 +392,17 @@
 // function sumNumbers(...args) {
 //    return args.filter(value => typeof value === 'number' && !Number.isNaN(value)).reduce((sum, num) => sum + num, 0);
 // }
+
+// 44 Moving Zeros To The End
+// function moveZeros(arr) {
+//    const result = [];
+//   let sum = 0;
+//   for (const item of arr) {
+//     if (item === 0) {
+//       sum++;
+//     } else {
+//       result.push(item);
+//     }
+//   }
+//   return result.concat(Array(sum).fill(0));
+// }
