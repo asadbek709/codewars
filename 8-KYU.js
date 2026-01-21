@@ -420,4 +420,9 @@
 //   const toHex = (n) => clamp(n).toString(16).toUpperCase().padStart(2, "0");
 //   return toHex(r) + toHex(g) + toHex(b);
 // }
-// 
+
+// 47 Sort Numbers
+// function solution(nums){
+//   if (!Array.isArray(nums)) return [];
+//   return nums.sort((a, b) => a - b);
+// }
