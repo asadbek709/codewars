@@ -425,4 +425,15 @@
 // function solution(nums){
 //   if (!Array.isArray(nums)) return [];
 //   return nums.sort((a, b) => a - b);
+//}
+
+// 48 What is type of variable? 
+// function type(value) {
+//   if(typeof value == "object"){
+//     if(Array.isArray(value)) return "array";
+//     if(value == null) return "null";
+//     if(isFinite(value)) return "date";
+//     return "object";
+// }
+//   return typeof value;
 // }
