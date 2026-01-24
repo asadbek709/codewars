@@ -447,3 +447,17 @@
 //     str = (+arr1.at(-i) || 0) + (+arr2.at(-i) || 0) + str;
 //   return +str;
 // };
+
+// 50 Vowel Count
+// function getCount(str) {
+//   let unlilar = "aeiou";
+//   let count = 0;
+
+//   for (let value of str) {
+//     if (unlilar.includes(value)) {
+//       count++;
+//     }
+//   }
+
+//   return count;
+// }
