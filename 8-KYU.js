@@ -466,3 +466,11 @@
 // function wordsToSentence(words) {
 //   return words.join(" ");
 // }
+
+// 52 Power of 4
+// function powerOf4(n) {
+//   if (typeof n !== "number" || !Number.isInteger(n) || n <= 0) {
+//     return false;
+//   }
+//   return (n & (n - 1)) === 0 && n % 3 === 1;
+// }

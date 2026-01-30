@@ -25,3 +25,12 @@
 //     return n; 
 //   });
 
+// 4 search in multidimensional array
+// function locate(arr, value) {
+//   const Array = arr.flat(Infinity);
+//   if(Array.includes(value)) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
