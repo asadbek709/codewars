@@ -34,3 +34,14 @@
 //     return false;
 //   }
 // }
+
+// 5 Number of trailing zeros of N!
+// function zeros (n) {
+//   let nol = 0;
+//     let i = 5;
+//     while (i <= n) {
+//        nol += Math.floor(n / i);
+//         i *= 5;
+//     }
+//     return nol;
+// }
