@@ -50,3 +50,15 @@
 // function alphanumeric(str){
 //   return /^[a-zA-Z0-9]+$/.test(str);
 // }
+
+// 7 Convert A Hex String To RGB
+// function hexStringToRGB(hexString) {
+//     hexString = hexString.replace('#', '');
+
+//     // Har bir rang komponentini ajratamiz
+//     const r = parseInt(hexString.slice(0, 2), 16);
+//     const g = parseInt(hexString.slice(2, 4), 16);
+//     const b = parseInt(hexString.slice(4, 6), 16);
+
+//     return { r, g, b };
+// }
