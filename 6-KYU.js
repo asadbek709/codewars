@@ -45,3 +45,8 @@
 //     }
 //     return nol;
 // }
+
+// 6 Not very secure
+// function alphanumeric(str){
+//   return /^[a-zA-Z0-9]+$/.test(str);
+// }
