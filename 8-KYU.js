@@ -479,7 +479,6 @@
 // function maxProduct(arr) {
 //    let max1 = 0;
 //   let max2 = 0; 
-
 //   for (const n of arr) {
 //     if (n > max1) {
 //       max2 = max1;
@@ -488,6 +487,5 @@
 //       max2 = n;
 //     }
 //   }
-
 //   return max1 * max2;
-// }
+// };
