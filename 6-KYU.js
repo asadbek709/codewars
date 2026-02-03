@@ -54,11 +54,20 @@
 // 7 Convert A Hex String To RGB
 // function hexStringToRGB(hexString) {
 //     hexString = hexString.replace('#', '');
-
 //     // Har bir rang komponentini ajratamiz
 //     const r = parseInt(hexString.slice(0, 2), 16);
 //     const g = parseInt(hexString.slice(2, 4), 16);
 //     const b = parseInt(hexString.slice(4, 6), 16);
-
 //     return { r, g, b };
+// }
+
+// 8  Mean Square Error
+// const solution = function(firstArray, secondArray) {
+//    let n = firstArray.length;
+//     let sum = 0;
+//     for (let i = 0; i < n; i++) {
+//         let res = firstArray[i] - secondArray[i];
+//         sum += res * res; // kvadratini qo‘shish
+//     }
+//     return sum / n;
 // }
