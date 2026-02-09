@@ -511,3 +511,9 @@
 // let arr = [1, 2, [3, 4, [5, 6, [7, 8, [9, 10]]]]];
 
 // console.log(arr.flatInfinity());
+
+// 54 Find the stray number
+// function stray(arr) {
+//   arr.sort((a, b) => a - b);
+//   return arr[0] === arr[1] ? arr[arr.length - 1] : arr[0];
+// }
