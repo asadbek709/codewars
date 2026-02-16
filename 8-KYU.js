@@ -518,3 +518,12 @@
 //   return arr[0] === arr[1] ? arr[arr.length - 1] : arr[0];
 // }
 
+class Animal {
+constructor(name, type) {
+    this.name = name;
+    this.type = type;
+  }
+  toString() {
+    return `${this.name} is a ${this.type}`
+  }
+}
