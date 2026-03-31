@@ -530,7 +530,7 @@
 //   }
 // }
 
-// 57Make Class
+// 57 Make Class
 // function makeClass(...arr) {
 //     return class {
 //       constructor(...a) {
