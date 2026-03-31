@@ -72,7 +72,7 @@
 //     return sum / n;
 // }
 
-// 9 
+// 9 Simple Pig Latin
 
 // function pigIt(str) {
 //   return str.split(" ").map(word => {
